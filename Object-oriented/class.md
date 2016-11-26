@@ -30,7 +30,7 @@ class tool
 abstract class xxxConfig
 {
     protected name="";
-    protected age"";
+    protected age="";
     ....
     
 }
