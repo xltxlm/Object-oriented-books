@@ -2,7 +2,7 @@
 * [思想](README.md)
 
 * 面向对象
-    + [类]()
+    + [类](Object-oriented/class.md)
     + [属性](Object-oriented/attribute.md)
     + [方法](Object-oriented/method.md)
 
