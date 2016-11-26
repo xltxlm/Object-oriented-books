@@ -24,6 +24,6 @@ vim 是 标准么。不是，周边工具不完善
 
 要实现这个目标，配套的工具一定要完善
 
-[本书阅读地址](https://www.gitbook.com/book/xltxlm/object-oriented/details)
+[本书阅读地址](https://xltxlm.gitbooks.io/object-oriented/content/)
 
 
