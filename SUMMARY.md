@@ -16,6 +16,7 @@
     + docker
     + kafka
     + elk
+    + ffmpeg
 
 * 团队工具
     + Jenkins

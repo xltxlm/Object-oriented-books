@@ -15,9 +15,10 @@ function setLatitudeAndLongitude(latitude,longitude) {
     ...
 }
 ```
+
 看起来完全没有问题！
 思考下面的问题
-+ setLatitudeAndLongitude(51.2,125.33) 请问：凭什么知道第一个参数传入的就是纬度呢？ 常识？ 框架约定？ 看函数定义？ 看函数名？
++ setLatitudeAndLongitude(51.2,125.33) 请问：凭什么知道第一个参数传入的就是纬度呢？ 常识？ 框架约定？ 看函数注释？看函数定义？ 看函数名？
 + 为什么在 setLatitudeAndLongitude(51.2,125.33) 一次做了2个事情，类的第一原则是：单一职责原则
 
 正确的做法是
