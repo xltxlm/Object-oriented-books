@@ -11,7 +11,8 @@
     + composer
     + phpStrom
     
-* 运维工具    
+* 运维工具
+    + debian
     + docker
     + kafka
     + elk
