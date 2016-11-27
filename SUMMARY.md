@@ -7,7 +7,7 @@
     + [方法](Object-oriented/method.md)
 
 * 开发工具
-    + phpunit + xdebug
+    + [phpunit](phpunit/readme.md) + xdebug
     + composer
     + phpStrom
     
@@ -17,6 +17,7 @@
     + kafka
     + elk
     + ffmpeg
+    + [Shadowsocks](https://i.ssvpn.me/)
 
 * 团队工具
     + Jenkins
@@ -28,7 +29,7 @@
     + [psr规范 ](https://github.com/PizzaLiu/PHP-FIG) - 尤其是prs4规范
     
 + php组件
-    + 最新版本的
+    + 最新版本的 + [手册](php/readme.md)
     + pdo
     + monolog 日志记录
     + php_codesniffer
