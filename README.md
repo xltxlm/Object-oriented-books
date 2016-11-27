@@ -16,7 +16,8 @@
 
 
 #其他
-vim 是 标准么。不是，周边工具不完善
+
+>vim 是 标准么。不是，周边工具不完善
 
 面向对象的编程方式，按照概念，在操作上最后应该发展成配置化编程<br>
 运维的管理方式也在朝着配置化+自动化发展
@@ -28,6 +29,6 @@ vim 是 标准么。不是，周边工具不完善
 
 为了实现面向对象，本书还罗列了其他的周边生态工具的实践路径
 
-[本书阅读地址](https://xltxlm.gitbooks.io/object-oriented/content/)
+> [本书阅读地址](https://xltxlm.gitbooks.io/object-oriented/content/)
 
 

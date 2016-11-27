@@ -40,6 +40,8 @@ class tool
 ```
 
 配置类：定义一些配置的属性，供扩展填写
+
+**注意** 配置类基本上所有的方法都是final
 ```
 abstract class xxxConfig
 {

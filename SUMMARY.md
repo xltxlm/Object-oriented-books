@@ -8,8 +8,8 @@
 
 * 开发工具
     + [phpunit](phpunit/readme.md) + xdebug
-    + composer
-    + phpStrom
+    + [composer](https://getcomposer.org/)
+    + [phpStrom](phpStrom/readme.md)
     
 * 运维工具
     + debian
@@ -34,6 +34,7 @@
     + monolog 日志记录
     + php_codesniffer
 
-* 标准网站    
+* 标准网站
     + github
     + gitbook
+    

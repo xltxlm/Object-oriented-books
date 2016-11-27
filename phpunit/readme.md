@@ -3,9 +3,9 @@
 中文手册地址<br>
 https://phpunit.de/manual/5.6/zh_cn/index.html
 
-主要
+主要阅读
 
-* 阅读安装
+* 安装
 * 覆盖率
 * 对异常进行测试
 * assertTrue()
@@ -15,9 +15,9 @@ https://phpunit.de/manual/5.6/zh_cn/index.html
 #配置文件 phpunit.xml
 
 一个配置模板
-里面的路径都是相对于phpunit.xml的路径
+>配置里的路径都是相对于phpunit.xml的路径
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit backupGlobals="false"
          backupStaticAttributes="false"
@@ -46,7 +46,6 @@ https://phpunit.de/manual/5.6/zh_cn/index.html
 
 
     <logging>
-        <log type="coverage-text" target="php://stdout" showUncoveredFiles="true"/>
         <log type="coverage-html" target="coverage" showUncoveredFiles="true"/>
         <log type="coverage-clover" target="coverage.xml" showUncoveredFiles="true"/>
     </logging>
@@ -56,3 +55,5 @@ https://phpunit.de/manual/5.6/zh_cn/index.html
 ```
 #运行方式
 在phpunit.xml目录下，命令行运行phpunit即可
+
+![](运行单元测试.gif)
