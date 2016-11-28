@@ -6,11 +6,15 @@
     + [属性](Object-oriented/attribute.md)
     + [方法](Object-oriented/method.md)
 
++ 数据库设计
+    + [规范](Database/README.md)
+    
 * 开发工具
     + [phpunit](phpunit/readme.md) + xdebug
     + [composer](composer/README.md)
     + [phpStrom](phpStrom/readme.md)
     + [php-cs-fixer]
+    + Autohotkey
     
 * 运维工具
     + debian
@@ -39,7 +43,7 @@
     + monolog 日志记录
     + php_codesniffer
 
-* 标准网站
+* 网站
     + [github]((https://github.com))
     + gitbook
     
