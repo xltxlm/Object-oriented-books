@@ -9,4 +9,12 @@
 技术支持
 [friendsofphp/php-cs-fixer](https://github.com/friendsofphp/php-cs-fixer)
 
-Phpstrom配置
+#Phpstrom配置
+
+##命令行编码改成utf8
+
+>chcp 65001
+
+![](命令行编码.png)
+效果
+![](命令行编码1.png)
