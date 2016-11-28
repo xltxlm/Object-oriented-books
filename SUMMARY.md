@@ -38,10 +38,11 @@
     + [psr规范 ](https://github.com/PizzaLiu/PHP-FIG) - 尤其是prs4规范
     
 + php组件
-    + 最新版本的 + [手册](php/readme.md)
+    + [最新版本的 + 手册](php/readme.md)
     + pdo
     + monolog 日志记录
     + php_codesniffer
+    + [Awesome PHP](https://github.com/CraryPrimitiveMan/awesome-php-zh_CN)
 
 * 网站
     + [github]((https://github.com))
