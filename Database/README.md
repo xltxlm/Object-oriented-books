@@ -9,4 +9,4 @@
     + 创建时间字段，默认值： datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
     + 更新时间字段
     + 进程id
-    + 可枚举的值，采取enum字段，不能采取 tinyint 
+    + 可枚举的值，采取enum字段，并且是中文值，不能采取 tinyint 
