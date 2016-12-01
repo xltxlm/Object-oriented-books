@@ -7,7 +7,8 @@
     + [方法](Object-oriented/method.md)
 
 + [健壮代码](RobustCode/README.MD)
- + 适应多国际
+ + 多语言
+ + [代码部署](deploy/README.md)
 
 + 数据库设计
     + [规范](Database/README.md)
@@ -21,7 +22,7 @@
     
 * 运维工具
     + debian
-    + docker
+    + [docker](https://store.docker.com)
     + kafka
     + elk
     + ffmpeg
