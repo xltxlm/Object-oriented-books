@@ -23,6 +23,7 @@
 * 运维工具
     + debian
     + [docker](https://store.docker.com)
+    + [docker中文](http://www.dockerinfo.net/)
     + kafka
     + elk
     + ffmpeg
@@ -58,3 +59,4 @@
 * Window效率工具
     + [listary](http://www.listary.com/)
     + [LICEcap - gif制作工具](http://www.cockos.com/licecap/)
+    + [ImageMagick]https://www.imagemagick.org/script/binary-releases.php
