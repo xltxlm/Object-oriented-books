@@ -5,7 +5,7 @@ https://phpunit.de/manual/5.6/zh_cn/index.html
 
 主要阅读
 
-* 安装
+* 安装,xdebug安装
 * 覆盖率
 * 对异常进行测试
 * assertTrue()
@@ -34,7 +34,7 @@ https://phpunit.de/manual/5.6/zh_cn/index.html
 
     <testsuites>
         <testsuite name="ormtest">
-            <directory suffix=".php">./test/</directory>
+            <directory suffix=".php">./tests/</directory>
         </testsuite>
     </testsuites>
 
@@ -43,12 +43,6 @@ https://phpunit.de/manual/5.6/zh_cn/index.html
             <directory suffix=".php">./src/</directory>
         </whitelist>
     </filter>
-
-
-    <logging>
-        <log type="coverage-html" target="coverage" showUncoveredFiles="true"/>
-        <log type="coverage-clover" target="coverage.xml" showUncoveredFiles="true"/>
-    </logging>
 
 
 </phpunit>

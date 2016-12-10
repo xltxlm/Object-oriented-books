@@ -8,7 +8,6 @@
 
 + [健壮代码](RobustCode/README.MD)
  + 多语言
- + [代码部署](deploy/README.md)
 
 + 数据库设计
     + [规范](Database/README.md)
@@ -43,6 +42,7 @@
     
 * 概念
     + [psr规范 ](https://github.com/PizzaLiu/PHP-FIG) - 尤其是prs4规范
+    + [账户权限RBAC]
     
 + php相关
     + [最新版本的 + 手册](php/readme.md)
@@ -59,4 +59,4 @@
 * Window效率工具
     + [listary](http://www.listary.com/)
     + [LICEcap - gif制作工具](http://www.cockos.com/licecap/)
-    + [ImageMagick]https://www.imagemagick.org/script/binary-releases.php
+    + Easy GIF Animator Pro GIF制作工具

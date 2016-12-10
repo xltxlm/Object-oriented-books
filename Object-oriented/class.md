@@ -54,3 +54,6 @@ abstract class xxxConfig
 #新概念：组合编程 trait
 
 trait 不能嵌套，否则过于复杂
+
+#设计架构
++ 每一处读写都必须存在一份类模型(数据库,请求get/post/cookie,网页结构) 结构化所有

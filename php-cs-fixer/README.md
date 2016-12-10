@@ -1,22 +1,26 @@
 #代码格式化工具
 
-symfony格式更符合规范
->fix  $FilePath$ --level=symfony
+>更多时候，我们可以通过配置文件来自定义格式化选项以及搜索的目录和文件。
+自定义配置通过在项目根目录添加一个 .php_cs 文件的方式实现。
 
-额外的附加选项
---fixers=逗号隔开选项名字 [contrib] 类型的都是额外选项
-
->align_equals
-
-![](赋值对其.png)
-
->phpdoc_order
-
-函数的注释上，先参数什么，return一定在最后面
-
->short_array_syntax
-
-采用 [] 类似json格式来表达数组
 #相关入门文档
 
 (http://0x1.im/blog/php/php-cs-fixer.html)
+
+```php
+<?php
+
+$finder = PhpCsFixer\Finder::create()
+    ->in(__DIR__)
+;
+
+return PhpCsFixer\Config::create()
+    ->setRules(array(
+        '@PSR2' => true,
+        '@Symfony' => true,
+        'phpdoc_order'=>true,
+        'array_syntax' => array('syntax' => 'short'),
+    ))
+    ->setFinder($finder)
+;
+```
